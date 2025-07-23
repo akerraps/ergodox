@@ -83,13 +83,16 @@ Keycaps can also be downloaded from my Printables profile:
 This build uses a custom layout for the Ergodox EZ to be used on my [hyprland config](https://github.com/akerraps/hyprconfig). You can view and customize it via the ZSA online configurator:
 👉 [View Layout](https://configure.zsa.io/ergodox-ez/layouts/6pvpn/latest/0)
 
+For convenience, you’ll also find the ready-to-flash .hex file (`ergodox-layout.hex`) which can be used to flash the keyboard using the official tool provided by ZSA:
+👉 [Flashing | zsa.io](https://www.zsa.io/flash)
+
 ## 🙏 Acknowledgments
 
 Special thanks to **Iñigo Alonso Bilbao** for his invaluable help in designing the silicone molds and working with resin casting and resin printing my keycaps. This project wouldn’t have been possible without his guidance and collaboration during the case fabrication process.
 
 ## 🔧 Further Resources
 
-For a detailed guide on the required materials, PCB assembly, and soldering process, please refer to the official ErgoDox documentation:  
+For a detailed guide on the required materials, PCB assembly, and soldering process, please refer to the official ErgoDox documentation:
 🔗 [https://www.ergodox.io/](https://www.ergodox.io/)
 
 ## 📃 License
