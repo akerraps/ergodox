@@ -4,14 +4,14 @@ This project documents the complete, **from-scratch** creation of a fully custom
 
 ## ✨ What Makes This Project Special?
 
-- 🔧 **Built entirely from scratch**: No pre-made kits were used—everything was sourced, designed, or assembled by hand.
-- 🖨️ **3D-printed molds and components**: All [molds](https://www.thingiverse.com/thing:4283186) for the case were printed using a 3D printer. The case mold bases were printed in PLA with an FDM printer.
-- 🎨 **Custom-designed, resin-printed keycaps**: Keycaps were printed using a **resin printer** with **mechanical-grade resin** for durability. The engraved symbols are painted **white from the inside** to make them stand out through the semi-transparent surface.
-- 🐧 **Custom SUPER key**: Includes a special keycap featuring the **Linux penguin** for the SUPER key.
-- 🧱 **Resin case with alcohol ink dyes**: The case was cast in resin using silicone molds and **tinted with alcohol-based dyes**, producing a cloud-like mix of black and blue tones.
-- ⌨️ **Custom QMK firmware**: Powered by [QMK Firmware](https://qmk.fm/), fully programmable via the [ZSA Configurator](https://configure.zsa.io/ergodox-ez/layouts/6pvpn/latest/0).
-- 🔌 **Coiled interconnect cable**: The cable between the two halves of the keyboard is coiled manually to keep the setup **clean and tidy**.
-- ⛺ **Tent kit support**: This build includes a [tenting kit](https://www.thingiverse.com/thing:4241793) for ergonomic tilt and wrist comfort *(not visible in the photos yet, as it's pending black paint)*.
+- **Built entirely from scratch**: No pre-made kits were used—everything was sourced, designed, or assembled by hand.
+- **3D-printed molds and components**: All [molds](https://www.thingiverse.com/thing:4283186) for the case were printed using a 3D printer. The case mold bases were printed in PLA with an FDM printer.
+- **Custom-designed, resin-printed keycaps**: Keycaps were printed using a **resin printer** with **mechanical-grade resin** for durability. The engraved symbols are painted **white from the inside** to make them stand out through the semi-transparent surface.
+- **Custom SUPER key**: Includes a special keycap featuring the **Linux penguin** for the SUPER key.
+- **Resin case with alcohol ink dyes**: The case was cast in resin using silicone molds and **tinted with alcohol-based dyes**, producing a cloud-like mix of black and blue tones.
+- **Custom QMK firmware**: Powered by [QMK Firmware](https://qmk.fm/), fully programmable via the [ZSA Configurator](https://configure.zsa.io/ergodox-ez/layouts/6pvpn/latest/0).
+- **Coiled interconnect cable**: The cable between the two halves of the keyboard is coiled manually to keep the setup **clean and tidy**.
+- **Tent kit support**: This build includes a [tenting kit](https://www.thingiverse.com/thing:4241793) for ergonomic tilt and wrist comfort *(not visible in the photos yet, as it's pending black paint)*.
 
 ## 🧩 Project Components
 
