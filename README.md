@@ -86,7 +86,7 @@ This build uses a custom layout for the Ergodox EZ to be used on my [hyprland co
 For convenience, you’ll also find the ready-to-flash .hex file (`ergodox-layout.hex`) which can be used to flash the keyboard using the official tool provided by ZSA:
  [Flashing | zsa.io](https://www.zsa.io/flash)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to **Iñigo Alonso Bilbao** for his invaluable help in designing the silicone molds and working with resin casting and resin printing my keycaps. This project wouldn’t have been possible without his guidance and collaboration during the case fabrication process.
 
